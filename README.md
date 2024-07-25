@@ -1,4 +1,4 @@
-**DATA CLEANING** Steps[1-3] **DATA PROCESSING** Steps[4-7] **DATA ANALYSIS** Steps[8-19]
+**DATA CLEANING** Steps[1-3] **DATA PROCESSING** Steps[4-7] **DATA ANALYSIS** Steps[8-21]
 1)	Check any missing values or blanks using ISBLANK function
 2)	Data Correction in Qty Column, replacing One ->1 and Two->2
 3)	Can remove The Currency Column
