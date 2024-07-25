@@ -1,13 +1,13 @@
-DATA CLEANING
+**DATA CLEANING**
 1)	Check any missing values or blanks using ISBLANK function
 2)	Data Correction in Qty Column, replacing One ->1 and Two->2
 3)	Can remove The Currency Column
-DATA PROCESSING
+**DATA PROCESSING**
 1)	Make bins or bucket and make another column to better understand the dataset
 2)	Categorize the Age column in the Age range column as- Senior, Adult and Young Adult
 3)	Remove the column which has formula and paste the only value in another column
 4)	Extract the month from the date using TEXT function. And do the same for this, what we did in step 4
-DATA ANALYSIS 
+**DATA ANALYSIS** 
 1)	Pivot table Pull Sum of Amount and Count of Order ID
 2)	Go to Design and Off the Grand Total
 3)	Go to Pivot Table Analysis and go to pivot chart
